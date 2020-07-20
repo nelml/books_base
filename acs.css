@@ -6,7 +6,7 @@
 
 /*Top style*/
 
-body {
+.roots_body {
 	font-family: verdana, arial, helvetica, sans-serif;
 	line-height: 18px;
 	color: #333;
@@ -14,14 +14,31 @@ body {
 	margin: 33px;
 }
 
-header h1 {
-
-}
-
 .top_main {
 	margin: 33px;
 }
 
 /*books style*/
+
+.books_body {
+	font-family: verdana, arial, helvetica, sans-serif;
+	line-height: 18px;
+	color: #333;
+	font-size: 13px;
+	margin: 33px;
+}
+
+th {
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+table {
+	display: table;
+}
+
+.books_head {
+	margin: 33px 0;
+}
 
 /*edit style*/
