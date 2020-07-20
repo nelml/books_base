@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding:  0;
+	box-sizing: border-box;
+}
+
+/*Top style*/
+
+body {
+	font-family: verdana, arial, helvetica, sans-serif;
+	line-height: 18px;
+	color: #333;
+	font-size: 13px;
+	margin: 33px;
+}
+
+header h1 {
+
+}
+
+.top_main {
+	margin: 33px;
+}
+
+/*books style*/
+
+/*edit style*/
